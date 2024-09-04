@@ -10,8 +10,14 @@ import SwiftUI
 @main
 struct MentalUnloadApp: App {
     var body: some Scene {
+    
         WindowGroup {
-            ContentView()
-        }
+            
+                ContentView().colorScheme(.light)
+            
+        }.modelContainer(for: [StuffedItem.self, CheckListModel.self, SnapTask.self, Memory.self, Tag.self] )
+            
+            
     }
 }
+

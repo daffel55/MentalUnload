@@ -1,0 +1,106 @@
+/* 
+  Localizable.strings
+  MentalUnload
+
+  Created by Dagmar Feldt on 28.07.24.
+  
+*/
+
+/*CHECKLISTS*/
+//ContentView
+"ChecklistFolder" = "Checklist folder";
+"CreateFolderInfo" = "You can create a folder by clicking the symbol at the top ";
+"unassignedChecklists" = "unassigned checklists";
+"checklists" = "Checklists";
+"edit" = "Edit checklist?";
+//alert
+"delte" = "Really delete?";
+"del" = "Delete";
+//contentunavailable
+ "noCheck" = "No checklist found.";
+"addList" = "Add a list with the add-list-symbol (4 lines and a plus)";
+
+//AddFolderView
+"newFolder" = "New Folder";
+"newFolderName" = "Name of the new folder";
+"newFolderMustHaveName" = "The folder must have a name!";
+"chooseExCheck" = "Choose existing checklists for this folder";
+"noUnassigned" = "no unassigned checklists available";
+"createNewCheck" = "Create new checklist";
+
+"sav" = "Save";
+"createNewFol" = "Create new folder";
+
+//AddCheckListView
+"addChec" = "Add checklist name";
+"addItem" = "Add checklist item";
+"checkListName" = "Name of this checklist";
+"checkListItems" = "Checklist items";
+"chooseFolder" = "Choose a folder (optional)";
+"folds" = "Folders";
+"noFold" = "No folder";
+"pickCol" = "Pick a color";
+"listMustName" = "Checklist must have a name";
+"enterItem" = "Enter at least one item";
+
+// EditCheckListView
+"notAllEntries" = "You can't delete all entries. If you want to delete the list completly then do this in the mainmenu (trash symbol) or add a new entry to keep here and delete the first one afterwards.";
+
+// EditFolderView
+"folName" = "Folder name";
+"selectDeselect" = "Select or deselect checklists for this folder";
+"noCheckAvailable" = "No checklists available";
+"AddNewListTo" = "Add new list to ";
+"editChecFolder" = "Edit checklist folder";
+
+// CheckListDetailView
+"allDone" = "★ All Done! ★";
+
+
+// demodaten
+// checklistWohnwagenAn
+"hitchIt" = "Hitching the Caravan";
+"handbrakeCar" = "Handbrake engaged on the car";
+"couplingSecure" = "Coupling secured";
+"safetyCable" = "Safety cable secured";
+"electric" = "Plug in and check electrical connection";
+"jockeyWheel" = "Jockey wheel raised and secured";
+"releaseHandbrake" = "Release caravan handbrake";
+"mover" = "Disengage mover, turn off mover power, pack remote control and lever";
+"doors" = "Doors and windows of the caravan closed, including the skylight";
+"gas" = "Gas bottle turned off and secured";
+
+ //checkListWohnwagenVerlassen
+"leavingIt" = "Leaving the Caravan at the Campsite";
+"CloseWindow" = "Close and darken windows and skylight";
+"Fridge" = "Fridge empty, off, and open";
+"TurnOffElec" = "Turn off electricity";
+"TurnOffGas" = "Turn off gas and water pump";
+"DrainWater" =  "Drain standing water";
+"TrashOut" = "Take out trash";
+"TakeThingsHome" = "Take mobile phone, money, etc.";
+"LockDoors" =  "Lock doors";
+"cushions" = "Put cushions in the tent";
+"curtainsTent" = "Close curtains in the tent";
+"Zippers" = "Close all zippers";
+ 
+// checkListWohnwagenAb
+"unHitchIt" = "Unhitching the Caravan";
+"handbrakeCaravan" = "Handbrake on the caravan applied";
+ "lowerJockey" = "Lower jockey wheel, secure well, and crank up, release hitch";
+"disconElec" = "Disconnect electricity";
+"removeSafety" = "Remove safety cable";
+"enterCravan" = "Enter caravan only when supported";
+
+// checkListDemo
+"checkOff" = "Check off an item on the checklist";
+"changeAppearance" = "Change the appearance of the checklist using the edit menu (pencil icon)";
+"createFolder" = "Create a folder in the main menu (folder icon with plus) and put this checklist in it";
+"createNewCheckList" = "Create a new checklist with the icon in the main menu (4 lines and a plus)";
+ "checkOffAll" = "Check off all items on the checklist and see what happens, then uncheck some items or press the reset button (counterclockwise arrow)";
+ 
+// tips
+"checkedAllBoxes" = "Checked all boxes";
+"firstTipMessage" = "Look into the Demo-checklist, to learn about the app.\nFor more information tap the info icon (i inside circle).";
+"CampingFolder" = "Folder for Testing";
+"CampingFolderInfo" = "Inside this folder I created some lists that I needed the most.\nYou can use, edit or delete lists and folder as you like";

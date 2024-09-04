@@ -1,0 +1,103 @@
+/* 
+  Localizable.strings
+  MentalUnload
+
+  Created by Dagmar Feldt on 28.07.24.
+  
+*/
+ /* CHECKLISTS */
+
+"ChecklistFolder" = "Checklisten in ordnern";
+"CreateFolderInfo" = "Um einen Ordner zu erstellen, klicke auf das Ordnersymbol mit dem Plus.";
+"unassignedChecklists" = "Einzelne Checklisten";
+"checklists" = "Checklisten";
+"edit" = "Checkliste bearbeiten?";
+//alert
+"delte" = "Wirklich löschen?";
+"del" = "Löschen";
+//contentunavailable
+ "noCheck" = "Keine Checklisten gefunden.";
+"addList" = "Erstelle eine neue Checkliste mit dem Listensymbol (4 Linien und ein Plus)";
+
+//AddFolderView
+"newFolder" = "Neuer Ordner";
+"newFolderName" = "Name des Ordners";
+"newFolderMustHaveName" = "Der Ordner muss einen Namen haben!";
+"chooseExCheck" = "Wähle bestehende Checklisten für den Ordner aus:";
+"noUnassigned" = "Es gibt keine Checklisten ohne Ordnerzuordnung";
+"createNewCheck" = "Erstelle eine neue Checkliste";
+
+"sav" = "Sichern";
+"createNewFol" = "Neuen Ordner erstellen";
+
+//AddCheckListView
+"addChec" = "Name der Checkliste";
+"addItem" = "Die Punkte der Checkliste";
+"checkListName" = "Name der Checkliste";
+"checkListItems" = "Checklistenpunkt";
+"chooseFolder" = "Wähle einen Ordner (optional)";
+"folds" = "Ordner";
+"noFold" = "Ohne Ordner";
+"pickCol" = "Wähle eine Farbe";
+"listMustName" = "Die Checkliste muss einen Namen haben";
+"enterItem" = "Mindestens ein Punkt erforderlich";
+
+// EditCheckListView
+"notAllEntries" = "Es können nie alle Einträge gelöscht werden.\nEntweder die Liste im Hauptmenü löschen oder einen zweiten Eintrag hinzu fügen und dann den ersten löschen.";
+// EditFolderView
+"folName" = "Name des Ordners";
+"selectDeselect" = "Hake Checklisten für diesen Ordner an oder ab.";
+"noCheckAvailable" = "Keine Checklisten verfügbar.";
+"AddNewListTo" = "Füge eine neue Liste zu dem Ordner: ";
+"editChecFolder" = "Ordner bearbeiten";
+
+// CheckListDetailView
+"allDone" = "★ Alles erledigt! ★";
+
+// demodaten
+// checklistWohnwagenAn
+"hitchIt" = "Wohnwagen ankoppeln";
+"handbrakeCar" = "Am Auto Handbremse angezogen";
+"couplingSecure" = "Kupplung gut fest";
+"safetyCable" = "Fangseil fest";
+"electric" = "Strom einstecken und überprüfen";
+"jockeyWheel" = "Stützrad hoch und gut sichern";
+"releaseHandbrake" = "Handbremse vom Wohnwagen los";
+"mover" = "Mover los, Moverstrom aus, Fernbedienung und Hebel verpacken";
+"doors" = "Türen und Fenster am Wohnwagen verschlossen, auch das Oberlicht";
+"gas" = "Gasflasche abgedreht und gesichert";
+
+//checkListWohnwagenVerlassen
+"leavingIt" = "Wohnwagen für längere Zeit verlassen";
+"CloseWindow" = "Fenster und Oberlicht zu und verdunkeln";
+"Fridge" = "Kühlschrank leer, aus und offen";
+"TurnOffElec" = "Strom ausstellen";
+"TurnOffGas" = "Gas und Wasserpumpe ausstellen";
+"DrainWater" =  "Stehendes Wasser leeren";
+"TrashOut" = "Müll mitnehmen";
+"TakeThingsHome" = "Handy, Geld etc. mitnehmen";
+"LockDoors" =  "Türen abschließen";
+"cushions" = "Polster ins Zelt legen";
+"curtainsTent" = "Im Zelt Vorhänge schließen";
+"Zippers" = "Alle Reißverschlüsse schließen";
+
+// checkListWohnwagenAb
+"unHitchIt" = "Wohnwagen abkoppeln";
+"handbrakeCaravan" = "Handbremse am Wohnwagen fest";
+"lowerJockey" = "Stützrad herunter, gut sichern und hochkurbeln, Kupplung lösen";
+"disconElec" =  "Strom abziehen";
+"removeSafety" = "Fangseil abnehmen";
+"enterCravan" = "Wohnwagen nur betreten, wenn abgestützt";
+
+// checkListDemo
+"checkOff" = "Hake einen Punkt der Checkliste ab";
+"changeAppearance" = "Verändere das Aussehen der Checkliste mit dem Bearbeitenmenü (Stift-Symbol)";
+"createFolder" = "Lege im Hauptmenü einen Ordner an (Ordnersymbol mit plus) und lege diese Checkliste hinein";
+"createNewCheckList" = "Erstelle eine neue Checkliste mit dem entsprechenden Symbol im Hauptmenü (4 Linien und ein Plus)";
+ "checkOffAll" = "Wähle alle Punkte der Checkliste an und schau was passiert, danach wähle einige Punkte wieder ab oder drücke den Resetknopf (Kreispfeil gegen Uhrzeigersinn)";
+// Tips
+
+"checkedAllBoxes" = "Alles abgehackt?!";
+"firstTipMessage" = "Schau dir die Demo-Checkliste an, um die App kennenzulernen.\nMehr Informationen unter Info (i im Kreis)";
+"CampingFolder" = "Ordner zum Ausprobieren (Camping)";
+"CampingFolderInfo" = "Ich habe hier einen Ordner mit Listen angelegt, die ich am dringensten brauchte.\nDu kannst sie und den Ordner benutzen, verändern oder löschen, wie es dir gefällt.";
